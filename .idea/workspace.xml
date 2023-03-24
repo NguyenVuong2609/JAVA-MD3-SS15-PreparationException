@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77493f7c-28e1-4b53-9743-29a37eafb2a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD3-SS15-PreparationException.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_Debug/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_ArrayIndexOutOfBoundsException/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_ArrayIndexOutOfBoundsException/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_NumberFormatException/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH3_NumberFormatException/IncorrectException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NRiywE2i0CAABmOKxUzKFkMi43" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CalculationExample">
+    <configuration name="CalculationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH3_NumberFormatException.CalculationExample" />
+      <module name="MD3-SS15-PreparationException" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH3_NumberFormatException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.Main" />
+      <module name="MD3-SS15-PreparationException" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rikkei.academy.TH1_Debug.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_Debug.Main" />
+      <module name="MD3-SS15-PreparationException" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH2_ArrayIndexOutOfBoundsException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rikkei.academy.TH2_ArrayIndexOutOfBoundsException.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH2_ArrayIndexOutOfBoundsException.Main" />
+      <module name="MD3-SS15-PreparationException" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH2_ArrayIndexOutOfBoundsException.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculationExample" />
+        <item itemvalue="Application.Rikkei.academy.TH2_ArrayIndexOutOfBoundsException.Main" />
+        <item itemvalue="Application.Rikkei.academy.TH1_Debug.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77493f7c-28e1-4b53-9743-29a37eafb2a0" name="Changes" comment="" />
+      <created>1679633555658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679633555658</updated>
+      <workItem from="1679633556957" duration="3348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
